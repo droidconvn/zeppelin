@@ -6,7 +6,7 @@
 # - 
 #   group: "Gold"
 #   elements: 
-	  - {name: "Nexmo", description: "", link: "https://www.nexmo.com/", imageUrl: "logo-nexmo.png"}
+      - {name: "Nexmo", description: "", link: "https://www.nexmo.com/", imageUrl: "logo-nexmo.png"}
 	  - {name: "Mercari", description: "", link: "https://about.mercari.com/en/", imageUrl: "mercari-logo-horizontal.png"}
 #     - {name: "Uber", description: "", link: "https://www.uber.com/", imageUrl: "uber-logo.jpg"}
 #     - {name: "Zalo", description: "Zalo is the new market-leading messaging app with amazing features", link: "https://careers.zalo.me", imageUrl: "zalo.jpg"}
