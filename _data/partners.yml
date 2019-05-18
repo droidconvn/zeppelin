@@ -2,7 +2,7 @@
   group: "Platinum"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "logo-google.jpg"}
-	- {name: "Firebase", description: "", link: "https://firebase.com", imageUrl: "firebase-logo.png"}
+    - {name: "Firebase", description: "", link: "https://firebase.com", imageUrl: "firebase-logo.png"}
 # - 
 #   group: "Gold"
 #   elements: 
