@@ -6,7 +6,9 @@
 #   group: "Gold"
 #   elements: 
 
-#     - {name: "Firebase", description: "", link: "https://firebase.com", imageUrl: "firebase-logo.png"}
+	  - {name: "Nexmo", description: "", link: "https://www.nexmo.com/", imageUrl: "logo-nexmo.png"}
+      - {name: "Firebase", description: "", link: "https://firebase.com", imageUrl: "firebase-logo.png"}
+	  - {name: "Mercari", description: "", link: "https://about.mercari.com/en/", imageUrl: "mercari-logo-horizontal.png"}
 #     - {name: "Uber", description: "", link: "https://www.uber.com/", imageUrl: "uber-logo.jpg"}
 #     - {name: "Zalo", description: "Zalo is the new market-leading messaging app with amazing features", link: "https://careers.zalo.me", imageUrl: "zalo.jpg"}
 - 
@@ -18,11 +20,11 @@
 # - 
 #   group: "Bronze"
 #   elements: 
-#     - {name: "JetBrains", description: "JetBrains is a software development company whose tools are targeted towards software developers and project managers", link: "https://www.jetbrains.com/", imageUrl: "logo-jetbrains.jpg"}
+     - {name: "JetBrains", description: "JetBrains is a software development company whose tools are targeted towards software developers and project managers", link: "https://www.jetbrains.com/", imageUrl: "logo-jetbrains.jpg"}
 # - 
 #   group: "Startup"
 #   elements: 
-#     - {name: "Nexmo", description: "", link: "https://www.nexmo.com/", imageUrl: "logo-nexmo.png"}
+     - {name: "Nexmo", description: "", link: "https://www.nexmo.com/", imageUrl: "logo-nexmo.png"}
 
 #- {name: "RMIT University", description: "RMIT University Vietnam is the Vietnamese branch of the Australian research university the Royal Melbourne Institute of Technology, known in Australia as RMIT University. It has two campuses located in Ho Chi Minh City and Hanoi", link: "https://www.rmit.edu.vn/", imageUrl: "logo-rmit.jpg"}
 #
