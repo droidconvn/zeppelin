@@ -64,7 +64,72 @@
   rockstar: false
   ribbon: 
     - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
-
+- 
+  id: 7
+  name: "Zarah"
+  surname: "Dominguez"
+  company: "GDE"
+  title: "GDE"
+  bio: "Having a love/hate affair with the little green 'droid; Google Developer Expert for Android; a walking contradiction  "
+  thumbnailUrl: ZarahDominguez.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/experts"}
+- 
+  id: 8
+  name: "Truong Sinh Tran"
+  surname: "Nguyen"
+  company: "Inspectorio"
+  title: "Google"
+  bio: "10ys working with startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Leading teams and hands on with NativeScript, ReactNative, Xamarin, RoboVM, iOS, Android."
+  thumbnailUrl: TruongSinhTran-Nguyen.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Inspectorio", title: "Google", url: "https://www.inspectorio.com/"}
+- 
+  id: 9
+  name: "Yacine"
+  surname: "Rezgui"
+  company: "Google"
+  title: "Google"
+  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
+  thumbnailUrl: YacineRezgui.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+- 
+  id: 10
+  name: "Yacine"
+  surname: "Rezgui"
+  company: "Google"
+  title: "Google"
+  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
+  thumbnailUrl: YacineRezgui.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+- 
+  id: 11
+  name: "Yacine"
+  surname: "Rezgui"
+  company: "Google"
+  title: "Google"
+  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
+  thumbnailUrl: YacineRezgui.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+- 
+  id: 12
+  name: "Yacine"
+  surname: "Rezgui"
+  company: "Google"
+  title: "Google"
+  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
+  thumbnailUrl: YacineRezgui.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
 
 
 # - 
