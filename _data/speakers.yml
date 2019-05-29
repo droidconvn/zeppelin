@@ -80,56 +80,56 @@
   name: "Truong Sinh Tran"
   surname: "Nguyen"
   company: "Inspectorio"
-  title: "Google"
-  bio: "10ys working with startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Leading teams and hands on with NativeScript, ReactNative, Xamarin, RoboVM, iOS, Android."
+  title: "Inspectorio"
+  bio: "10 years working with startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Leading teams and hands on with NativeScript, ReactNative, Xamarin, RoboVM, iOS, Android."
   thumbnailUrl: TruongSinhTran-Nguyen.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "Inspectorio", title: "Google", url: "https://www.inspectorio.com/"}
+    - {abbr: "Inspectorio", title: "Inspectorio", url: "https://www.inspectorio.com/"}
 - 
   id: 9
-  name: "Yacine"
-  surname: "Rezgui"
-  company: "Google"
-  title: "Google"
-  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
-  thumbnailUrl: YacineRezgui.jpg
+  name: "Paya"
+  surname: "Do"
+  company: "Mercari"
+  title: "Marcari"
+  bio: "I was born in Vietnam, educated and have worked in Singapore, the US and Japan. I design and code if needed. My professional career is mostly in Japan as a designer. I produced and designed some popular social game titles in Japan, also helped develop and design Amazon, Diesel, Marc Jacobs, Diesel and Ray-Ban e-commerce interface and system for Japanese market (still currently in-use). I'm currently with Mercari, Inc., the first start-up unicorn in Japan. I always love the idea of engineering my design since i was a child. My vision is to subvert the status quo to make inclusive product and design for everyone."
+  thumbnailUrl: Paya_Do.png
   rockstar: false
   ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+    - {abbr: "Mercari", title: "Mercari", url: "https://www.mercari.com/"}
 - 
   id: 10
-  name: "Yacine"
-  surname: "Rezgui"
-  company: "Google"
-  title: "Google"
-  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
-  thumbnailUrl: YacineRezgui.jpg
+  name: "Matthew"
+  surname: " Gillingham"
+  company: "Mercari"
+  title: "Mercari"
+  bio: "Matthew Gillingham is currently an Engineering Manager at Mercari. He has worked in Tokyo, Japan for over 10 years as a full stack developer, on projects such as an augmented reality social network, video games, and REST or GraphQL-based web services. You can follow him at @gillygize."
+  thumbnailUrl: matthew.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+    - {abbr: "Mercari", title: "Mercari", url: "https://www.mercari.com/"}
 - 
   id: 11
-  name: "Yacine"
-  surname: "Rezgui"
+  name: "Oscar"
+  surname: " Wahltinez"
   company: "Google"
   title: "Google"
-  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
-  thumbnailUrl: YacineRezgui.jpg
+  bio: "Developer Relations at Google"
+  thumbnailUrl: oscar.jpg
   rockstar: false
   ribbon: 
     - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
 - 
   id: 12
-  name: "Yacine"
-  surname: "Rezgui"
-  company: "Google"
-  title: "Google"
-  bio: "French-Tunisian developer living in the UK. Developer Advocate 🥑 @Google and creator at Hania Labs, former IBMer."
-  thumbnailUrl: YacineRezgui.jpg
+  name: "Martin"
+  surname: "Petrulak"
+  company: "Freelancer"
+  title: "Freelancer"
+  bio: "Martin is an Android enthusiast currently living in Munich, Germany. He had worked as an independent (indie) developer, full-time employee, and freelancer since 2011. Currently working as a contractor for large companies helping with digital transformation projects. He likes to travel, do sport and of course, to drink beer-s :)"
+  thumbnailUrl: martin.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "Google", title: "Google", url: "https://developers.google.com/"}
+    - {abbr: "Freelancer", title: "", url: ""}
 
 
 # - 
