@@ -96,7 +96,7 @@
   thumbnailUrl: Paya_Do.png
   rockstar: false
   ribbon: 
-    - {abbr: "Mercari", title: "Mercari", url: "https://www.mercari.com/"}
+    - {abbr: "Mercari", title: "Mercari", url: "https://about.mercari.com/en/about/"}
 - 
   id: 10
   name: "Matthew"
@@ -107,7 +107,7 @@
   thumbnailUrl: matthew.jpg
   rockstar: false
   ribbon: 
-    - {abbr: "Mercari", title: "Mercari", url: "https://www.mercari.com/"}
+    - {abbr: "Mercari", title: "Mercari", url: "https://about.mercari.com/en/about/"}
 - 
   id: 11
   name: "Oscar"
