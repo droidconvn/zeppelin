@@ -76,6 +76,11 @@
   subtype: presentation
   speakers: [8]
 - 
+  id: 13503
+  title: "Cloud Firestore Codelab for Android"
+  subtype: presentation
+  speakers: [3,5]
+- 
   id: 14301
   title: "Building a security module for Android"
   subtype: presentation
