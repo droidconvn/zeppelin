@@ -145,7 +145,7 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2019-03-15T13:00"
   validThrough: "2019-03-31T23:59"
-  soldOut: false
+  soldOut: true
   soldOutText: "Sold Out"
  -
   name: "Early Bird Tickets"
@@ -170,9 +170,9 @@ ticketsOffers:
   buyButtonLink: "https://ticketbox.vn/event/droidcon-vietnam-2019-75060"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  soldOut: true
+  soldOut: false
   soldOutText: "Ticket Available Soon"
-  validFrom: "2019-05-01T00:00"
+  validFrom: "2019-02-01T00:00"
   validThrough: "2019-07-12T23:59"
  -
   name: "Student Tickets"
