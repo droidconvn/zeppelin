@@ -209,7 +209,7 @@ I enjoy researching new technology and working on interesting projects."
   ribbon: 
     - {abbr: "Senior Developer", title: "", url: ""}
 -
-   id: 12
+   id: 20
    name: "Hieu"
    surname: "Rocker"
    company: "Zalo"
@@ -222,7 +222,7 @@ I enjoy researching new technology and working on interesting projects."
    social:
      - {name: "github", link: "https://github.com/rockerhieu"}
  - 
-   id: 13
+   id: 21
    name: "Iñaki"
    surname: "Villar"
    company: "Agoda"
@@ -232,7 +232,8 @@ I enjoy researching new technology and working on interesting projects."
    rockstar: false
    social: 
      - {name: "twitter", link: "https://github.com/inyaki_mwc"}
-   id: 16
+-
+   id: 22
    name: "Huỳnh"
    bio: "Thao has been an Android Developer for 4 years and he is currently working for Trusting Social - latest fintech company in Vietnam. He worked on varies of mobile apps, from e-commerce application at Lazada, native application to embedded application."
    surname: "Quang Thảo"
@@ -240,6 +241,7 @@ I enjoy researching new technology and working on interesting projects."
    title: "Android Engineer"
    thumbnailUrl: HuynhQuang.jpeg
    rockstar: false
+
 # - 
 #   id: 5
 #   name: "David"
