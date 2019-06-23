@@ -159,7 +159,7 @@ ticketsOffers:
   validFrom: "2019-04-01T00:00"
   validThrough: "2019-05-01T00:00"
   soldOut: true
-  soldOutText: "Ticket Available Soon"
+  soldOutText: "Sold out"
  -
   name: "Regular Tickets"
   price: "450.000"
