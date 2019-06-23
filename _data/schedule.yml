@@ -1,9 +1,10 @@
 - 
-  date: "2018-04-07"
-  dateReadable: "April 7th"
+  date: "2019-06-13"
+  dateReadable: "June 13th"
   tracks: 
     - {title: "Session 1", color: "#90be4e"}
     - {title: "Session 2", color: "#03a9f4"}
+	- {title: "Workshop", color: "#1335f4"}
   timeslots:
     - {
     	startTime: "08:00",
@@ -12,61 +13,61 @@
     }
     - {
     	startTime: "09:00",
-    	endTime: "09:30",
+    	endTime: "09:20",
     	sessionIds: [9000]
     }
     - {
         startTime: "09:30",
-        endTime: "10:15",
+        endTime: "10:10",
         sessionIds: [9301, 9302]
     }
     - {
-        startTime: "10:20",
-        endTime: "11:05",
-        sessionIds: [10201, 10202]
+        startTime: "10:10",
+        endTime: "10:50",
+        sessionIds: [10101, 10102,10103]
     }
     - {
-        startTime: "11:10",
-        endTime: "11:55",
-        sessionIds: [11101, 11102]
+        startTime: "10:50",
+        endTime: "11:00",
+        sessionIds: [1050]
     }
     - {
-        startTime: "11:55",
-        endTime: "13:00",
-        sessionIds: [11550]
+        startTime: "11:00",
+        endTime: "11:40",
+        sessionIds: [11001,11002]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:30",
-        sessionIds: [13000]
+        startTime: "11:40",
+        endTime: "12:20",
+        sessionIds: [11401,11402]
     }
     - {
-        startTime: "13:30",
-        endTime: "14:15",
-        sessionIds: [13301, 13302]
+        startTime: "12:20",
+        endTime: "13:40",
+        sessionIds: [12200]
     }
     - {
-        startTime: "14:20",
-        endTime: "15:05",
-        sessionIds: [14201, 14202]
+        startTime: "13:50",
+        endTime: "14:30",
+        sessionIds: [13501, 13502]
     }
     - {
-        startTime: "15:05",
+        startTime: "14:30",
+        endTime: "15:10",
+        sessionIds: [14301, 14302]
+    }
+    - {
+        startTime: "15:10",
         endTime: "15:25",
-        sessionIds: [15050]
+        sessionIds: [15100]
     }
     - {
-        startTime: "15:30",
-        endTime: "16:15",
-        sessionIds: [15301, 15302]
+        startTime: "15:25",
+        endTime: "16:05",
+        sessionIds: [15251, 15252]
     }
     - {
-        startTime: "16:20",
-        endTime: "17:05",
-        sessionIds: [16201, 16202]
-    }
-    - {
-        startTime: "17:10",
-        endTime: "17:55",
-        sessionIds: [17101, 17102]
+        startTime: "16:05",
+        endTime: "16:45",
+        sessionIds: [16051, 16052]
     }

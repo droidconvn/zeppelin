@@ -9,157 +9,101 @@
   speakers: [19]
 - 
   id: 9301
-  title: "Tricks for converting Android Java code into Kotlin"
+  title: "Using Cloud Firestore to Build Planetary-Scale Apps"
   subtype: presentation
-  speakers: [5]
+  speakers: [3]
 - 
   id: 9302
-  title: "My Accidental Journey as a WomenTechmakers"
-  subtype: presentation
-  speakers: [9]
-- 
-  id: 10201
-  title: "Connect your Android Things with Firebase"
-  subtype: presentation
-  speakers: [10]
-- 
-  id: 10202
-  title: "Make it faster. (Enjoy gradle with kapt)"
-  subtype: presentation
-  speakers: [11]
-- 
-  id: 11101
-  title: "Zero to One with Android Things"
-  subtype: presentation
-  speakers: [12]
-- 
-  id: 11102
-  title: "Firebase Codelab"
-  subtype: presentation
-  speakers: [20]
-- 
-  id: 11550
-  title: "Break time"
-  service: true
-- 
-  id: 13000
-  title: "Check-in newbee & Preparing everything for afternoon"
-  service: true
-- 
-  id: 13301
-  title: "Kotlin on Client and Server"
-  subtype: presentation
-  speakers: [13]
-- 
-  id: 13302
-  title: "TensorFlow for Mobile Heroes"
-  subtype: presentation
-  speakers: [17]
-- 
-  id: 14201
-  title: "Rebuilding Uber App: Fast from the Start"
-  subtype: presentation
-  speakers: [14]
-- 
-  id: 14202
-  title: "Our story with clean architecture: Why and how did we implement in Android?"
-  subtype: presentation
-  speakers: [18]
-- 
-  id: 15050
-  title: "Teabreak & Networking"
-  service: true
-- 
-  id: 15301
-  title: "Kotlin Coroutines and Android sitting in a tree"
+  title: "Realtime Face Detection with Firebase ML Kit "
   subtype: presentation
   speakers: [4]
 - 
-  id: 15302
-  title: "Design Tools - Closing the Gap Between Design and Development "
+  id: 10101
+  title: "What's new in Android: Android Q and Privacy, get ready for the change"
   subtype: presentation
   speakers: [6]
 - 
-  id: 16201
-  title: "How modularization Android project would speed up your team"
+  id: 10103
+  title: "Sharing Is Caring - Kotlin Multiplatform for Android Developers"
   subtype: presentation
-  speakers: [8]
+  speakers: [1]
 - 
-  id: 16202
-  title: "The real beginner guide to Android (unit) testing"
+  id: 10201
+  title: "Cloud Firestore Codelab for Android"
+  subtype: presentation
+  speakers: [5,3]
+- 
+  id: 10102
+  title: "12 Years On: A Retrospective"
   subtype: presentation
   speakers: [7]
 - 
-  id: 17101
-  title: "GRPC and application in Android"
+  id: 11101
+  title: "Accessibility for Design System"
+  subtype: presentation
+  speakers: [9]
+- 
+  id: 11102
+  title: "Structured unit testing with Spek"
+  subtype: presentation
+  speakers: [12]
+- 
+  id: 11401
+  title: "Fast Data Serialization on Android"
+  subtype: presentation
+  speakers: [20]
+- 
+  id: 11402
+  title: "Conflict-Free Replicated Data Types (CRDT)"
+  subtype: presentation
+  speakers: [10]
+- 
+  id: 12200
+  title: "Break time"
+  service: true
+- 
+  id: 13501
+  title: "Getting started with CameraX"
+  subtype: presentation
+  speakers: [11,13,14]
+- 
+  id: 13502
+  title: "Flutter - NOT yet another cross-platform framework"
+  subtype: presentation
+  speakers: [8]
+- 
+  id: 14301
+  title: "Building a security module for Android"
+  subtype: presentation
+  speakers: [17,18]
+- 
+  id: 14302
+  title: "The Build Shrugged"
+  subtype: presentation
+  speakers: [21]
+- 
+  id: 15100
+  title: "Teabreak & Networking"
+  service: true
+- 
+  id: 15251
+  title: "Myths and Reality of Android Machine Learning"
+  subtype: presentation
+  speakers: [2]
+- 
+  id: 15252
+  title: "GraphQL in Android"
+  subtype: presentation
+  speakers: [22]
+- 
+  id: 16051
+  title: "Atomic Design Theory in Practice"
   subtype: presentation
   speakers: [16]
 - 
-  id: 17102
-  title: "Advanced Kotlin for MVVM"
+  id: 16052
+  title: "ava to Kotlin Migration Mistakes "
   subtype: presentation
-  speakers: [15]
+  speakers: [19]
 
 
-
-
-
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: []
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: []
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: []
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: []
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: []
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
