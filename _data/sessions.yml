@@ -6,7 +6,7 @@
   id: 9000
   title: "Conference Opening"
   subtype: presentation
-  speakers: [19]
+  service: true
 - 
   id: 9301
   title: "Using Cloud Firestore to Build Planetary-Scale Apps"

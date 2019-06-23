@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Session 1", color: "#90be4e"}
     - {title: "Session 2", color: "#03a9f4"}
-	- {title: "Workshop", color: "#1335f4"}
+    - {title: "Workshop", color: "#1335f4"}
   timeslots:
     - {
     	startTime: "08:00",
