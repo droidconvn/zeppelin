@@ -130,6 +130,116 @@
   rockstar: false
   ribbon: 
     - {abbr: "Freelancer", title: "", url: ""}
+- 
+  id: 13
+  name: "Fred"
+  surname: "Chung"
+  company: "Google"
+  title: "DevRel"
+  bio: "Fred is with Android Developer Relations at Google, responsible for developer outreach efforts in China."
+  thumbnailUrl: FredChung.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "DevRel", title: "", url: ""}
+- 
+  id: 14
+  name: "Meghan"
+  surname: "Mehta"
+  company: "Google"
+  title: "DevRel"
+  bio: "Meghan Mehta is an Android Developer Advocate at Google. She is passionate about mobile development and before Google worked on apps at Disney, Foursquare and Yelp. Outside of work she sings musical theater and swing dances. Follow her on Twitter and Instagram @adressyengineer."
+  thumbnailUrl: megan.png
+  rockstar: false
+  ribbon: 
+    - {abbr: "DevRel", title: "", url: ""}
+- 
+  id: 15
+  name: "Max LY"
+  surname: " Lau "
+  company: "Google"
+  title: "DevRel"
+  bio: "DeRel at Google."
+  thumbnailUrl: max.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "DevRel", title: "", url: ""}
+- 
+  id: 16
+  name: "John"
+  surname: "Bott"
+  company: "Mercari"
+  title: "DevRel"
+  bio: "Senior Developer at Mercari"
+  thumbnailUrl: jonbott.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Senior Developer", title: "", url: ""}
+- 
+  id: 17
+  name: "Tín"
+  surname: "Nguyễn"
+  company: "Quoine"
+  title: "Software Engineer at Quoine"
+  bio: "I am a developer who has close to 5 years of professional experience developing Android applications. With more than 3 years working for one of the most interesting and fast growing fin-tech company Quoine, I have the chance to be one of the earliest member and build our Android application Liquid from the ground up. On the way, I have gained lots of knowledge not only in the Android world but also in the fin-tech / crypto world."
+  thumbnailUrl: tin.jpeg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Senior Developer", title: "", url: ""}
+- 
+  id: 18
+  name: "Nguyen"
+  surname: "Nguyen"
+  company: "Quoine"
+  title: "DevRel"
+  bio: "I have been constantly working as an Android developer for around 3 years. I have strong interest in the technology in general and a specific love for Android. 
+I enjoy researching new technology and working on interesting projects."
+  thumbnailUrl: nguyennguyen.jpeg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Senior Developer", title: "", url: ""}
+- 
+  id: 19
+  name: "Kyrmyzy"
+  surname: "Kaliyeva"
+  company: "Fave"
+  title: "Software Developer"
+  bio: "Kotlin lover. Part of the team that implements great products. Following clean code concepts and always refactoring the code for a better solution."
+  thumbnailUrl: kaliyeva.jpeg
+  rockstar: false
+  ribbon: 
+    - {abbr: "Senior Developer", title: "", url: ""}
+-
+   id: 12
+   name: "Hieu"
+   surname: "Rocker"
+   company: "Zalo"
+   title: "Tech Lead of Zalo"
+   bio: "Android GDE. Tech Lead of a secret project at Zalo."
+   thumbnailUrl: HieuRocker.jpg
+   rockstar: false
+   ribbon:
+     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+   social:
+     - {name: "github", link: "https://github.com/rockerhieu"}
+ - 
+   id: 13
+   name: "Iñaki"
+   surname: "Villar"
+   company: "Agoda"
+   title: "Google Developer Expert"
+   bio: "Android Developer since 7 years ago. I worked with Bank apps in Spain for three years. Later I moved to Ireland to work with apps of Airlines and GSM carriers. Actually I'm living in Thailand working for Agoda. I'm Google Developer Expert and I enjoy being involve with the android community."
+   thumbnailUrl: InyakiVillar.png
+   rockstar: false
+   social: 
+     - {name: "twitter", link: "https://github.com/inyaki_mwc"}
+   id: 16
+   name: "Huỳnh"
+   bio: "Thao has been an Android Developer for 4 years and he is currently working for Trusting Social - latest fintech company in Vietnam. He worked on varies of mobile apps, from e-commerce application at Lazada, native application to embedded application."
+   surname: "Quang Thảo"
+   company: "Trusting Social"
+   title: "Android Engineer"
+   thumbnailUrl: HuynhQuang.jpeg
+   rockstar: false
 
 # - 
 #   id: 5
