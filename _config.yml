@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/2018", text: "2018"}
 # - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
