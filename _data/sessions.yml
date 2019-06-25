@@ -21,7 +21,7 @@
   id: 10101
   title: "What's new in Android: Android Q and Privacy, get ready for the change"
   subtype: presentation
-  speakers: [6]
+  speakers: [6,13]
 - 
   id: 10102
   title: "12 Years On: A Retrospective"
@@ -69,7 +69,7 @@
   id: 13501
   title: "Getting started with CameraX"
   subtype: presentation
-  speakers: [11,13,14]
+  speakers: [11,14]
 - 
   id: 13502
   title: "Reactive declarative UI as code - trend and healthy competition"
