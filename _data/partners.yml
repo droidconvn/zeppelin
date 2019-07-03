@@ -8,7 +8,7 @@
   elements: 
    - {name: "Nexmo", description: "Nexmo is a global cloud communications platform, providing APIs and SDKs for messaging, voice, phone verification, advanced multi-channel conversations and video calling with the OpenTok API. With our Messages and Dispatch Beta you can now integrate with various communication channels including Facebook Messenger, WhatsApp and Viber. We support open source libraries for PHP, Python, Ruby, Node.JS, Java and C# .NET enabling you to build scalable communications features.", link: "https://developer.nexmo.com/", imageUrl: "logo-nexmo.png"}
    - {name: "Mercari", description: "Mercari is a marketplace app that makes it easy for people to safely sell and ship their things. Launched in 2013, the Mercari app has been downloaded over 100M times in Japan and the US. It's now among the largest peer-to-peer selling platforms globally. From fashion to toys, shoes to electronics and beyond, Mercari's mission is to create value in a global marketplace where anyone can buy and sell.", link: "https://about.mercari.com/en/", imageUrl: "mercari-logo-horizontal.png"}
-   - {name: "Line", description: "Line", imageUrl: "logo-line.png"}
+   - {name: "Line", description: "Line", link: "https://linecorp.com/en/" imageUrl: "logo-line.png"}
 
 #     - {name: "Uber", description: "", link: "https://www.uber.com/", imageUrl: "uber-logo.jpg"}
 #     - {name: "Zalo", description: "Zalo is the new market-leading messaging app with amazing features", link: "https://careers.zalo.me", imageUrl: "zalo.jpg"}
