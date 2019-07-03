@@ -69,7 +69,7 @@
   id: 13501
   title: "Getting started with CameraX"
   subtype: presentation
-  speakers: [11,14]
+  speakers: [11,14,23]
 - 
   id: 13502
   title: "Reactive declarative UI as code - trend and healthy competition"

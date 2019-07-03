@@ -241,3 +241,12 @@ I enjoy researching new technology and working on interesting projects."
    title: "Android Engineer"
    thumbnailUrl: HuynhQuang.jpeg
    rockstar: false
+-
+   id: 23
+   name: "Max LY Lau"
+   bio: "Partner Developer Advocate at Google"
+   surname: "Lau"
+   company: "Google"
+   title: "Partner Developer Advocate at Google"
+   thumbnailUrl: MaxLy.jpeg
+   rockstar: false
